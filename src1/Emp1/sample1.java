@@ -1,10 +1,8 @@
 package Emp1;
 
-import java.util.*;
-
-
 public class sample1 {
 
-	
-	
+	public static void main() {
+		
+	}
 }
